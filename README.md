@@ -1,2 +1,2 @@
-# puc
+# PUC
 Trabalho de pós-graduação
