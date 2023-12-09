@@ -1,4 +1,4 @@
 # PUC
-Trabalhos da Disciplina: 
-- Avaliação da Qualidade de Uso de Sistemas
-- Pesquisa com usuários
+Trabalhos das Disciplinas: 
+1. Avaliação da Qualidade de Uso de Sistemas
+2. Pesquisa com usuários
